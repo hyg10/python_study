@@ -1,0 +1,8 @@
+pandas
+openpyxl
+pymysql
+sqlalchemy
+python-dotenv
+beautifulsoup4
+lxml
+playwright
